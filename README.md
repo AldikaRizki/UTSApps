@@ -2,7 +2,7 @@
 Aplikasi Tugas UTS</br>
 Nama : Aldika Rizki</br>
 Nim : 160101061<h3></br>
-1.Tampilan Splas</br>
+1.Tampilan Splash</br>
 ![1 screenshot_splash](https://user-images.githubusercontent.com/42840596/46497348-83d66f80-c844-11e8-9767-e01b0df8030c.png)</br>
 2.Taplilan Login</br>
 ![2 screenshot_login](https://user-images.githubusercontent.com/42840596/46497349-846f0600-c844-11e8-95a8-87e069e98fde.png)</br>
