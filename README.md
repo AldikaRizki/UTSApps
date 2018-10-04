@@ -1,7 +1,7 @@
 # UTSApps
-Aplikasi Tugas UTS </br>
-Nama : Aldika Rizki</br>
-Nim : 160101061 </br>
+<h2>Aplikasi Tugas UTS<h2> </br>
+<h3>Nama : Aldika Rizki<h3></br>
+<h3>Nim : 160101061<h3> </br>
 ![1 screenshot_splash](https://user-images.githubusercontent.com/42840596/46497348-83d66f80-c844-11e8-9767-e01b0df8030c.png)
 ![2 screenshot_login](https://user-images.githubusercontent.com/42840596/46497349-846f0600-c844-11e8-95a8-87e069e98fde.png)
 ![3 screenshot_login_sukses](https://user-images.githubusercontent.com/42840596/46497350-846f0600-c844-11e8-9eb9-598966b1d23b.png)
